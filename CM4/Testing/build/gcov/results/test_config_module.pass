@@ -1,0 +1,62 @@
+---
+:source:
+  :path: test
+  :file: test_config_module.c
+:successes:
+- :test: test_RegisterSensor_ColaValida_DevuelveTrue
+  :line: 58
+  :message: ''
+  :unity_test_time: 0
+- :test: test_RegisterSensor_ColaNull_DevuelveFalse
+  :line: 63
+  :message: ''
+  :unity_test_time: 0
+- :test: test_FrameSetTimeout_VaAlSensorYContieneMs
+  :line: 74
+  :message: ''
+  :unity_test_time: 0
+- :test: test_FrameSetThreshold_VaAlSensorYContieneThreshold
+  :line: 92
+  :message: ''
+  :unity_test_time: 0
+- :test: test_FrameForceRead_VaAlSensorComoForceRead
+  :line: 108
+  :message: ''
+  :unity_test_time: 0
+- :test: test_FrameEnableSensor_VaConFlagDeEnable
+  :line: 121
+  :message: ''
+  :unity_test_time: 0
+- :test: test_FrameSetWindow_VaConMinYMax
+  :line: 135
+  :message: ''
+  :unity_test_time: 0
+- :test: test_FrameSetBatteryThreshold_LlamaDirectamenteAlPowerFsm
+  :line: 154
+  :message: ''
+  :unity_test_time: 0
+- :test: test_FrameForceSystemMode_HaceBroadcastATodosLosSensores
+  :line: 164
+  :message: ''
+  :unity_test_time: 0
+- :test: test_FrameNull_NoHaceNada
+  :line: 188
+  :message: ''
+  :unity_test_time: 0
+- :test: test_FrameDemasiadoCorta_NoHaceNada
+  :line: 195
+  :message: ''
+  :unity_test_time: 0
+- :test: test_OpcodeDesconocido_SeIgnora
+  :line: 202
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 12
+  :passed: 12
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.34111200005281717

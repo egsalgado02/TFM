@@ -1,0 +1,42 @@
+---
+:source:
+  :path: test
+  :file: test_power_rail_manager.c
+:successes:
+- :test: test_PrimerRequest_HabilitaHardwareYCuentaUno
+  :line: 32
+  :message: ''
+  :unity_test_time: 0
+- :test: test_SegundoRequest_NoVuelveAEncenderHardware_YCuentaDos
+  :line: 40
+  :message: ''
+  :unity_test_time: 0
+- :test: test_Release_ConUnConsumidor_ApagaElRail
+  :line: 50
+  :message: ''
+  :unity_test_time: 0
+- :test: test_Release_ConDosConsumidores_NoApagaEnLaPrimera
+  :line: 62
+  :message: ''
+  :unity_test_time: 0
+- :test: test_Release_EnCeroPrevio_NoLlamaAlHardware
+  :line: 74
+  :message: ''
+  :unity_test_time: 0
+- :test: test_EmergencyCutoff_ApagaRailSinImportarRefcount
+  :line: 82
+  :message: ''
+  :unity_test_time: 0
+- :test: test_RailInvalido_NoProduceCrashNiLlamaHardware
+  :line: 95
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 7
+  :passed: 7
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.3485029999865219

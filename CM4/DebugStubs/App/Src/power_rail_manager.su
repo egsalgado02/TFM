@@ -1,0 +1,5 @@
+../App/Src/power_rail_manager.c:8:6:PowerRail_Init	16	static
+../App/Src/power_rail_manager.c:16:6:PowerRail_Request	16	static
+../App/Src/power_rail_manager.c:28:6:PowerRail_Release	16	static
+../App/Src/power_rail_manager.c:40:6:PowerRail_EmergencyCutoff	16	static
+../App/Src/power_rail_manager.c:48:9:PowerRail_GetRefCount	16	static

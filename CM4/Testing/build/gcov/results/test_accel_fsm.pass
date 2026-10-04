@@ -1,0 +1,70 @@
+---
+:source:
+  :path: test
+  :file: test_accel_fsm.c
+:successes:
+- :test: test_Init_TrasMedirReprogramaConTimeoutDeConservacion
+  :line: 133
+  :message: ''
+  :unity_test_time: 0
+- :test: test_PrimeraMedida_EnviaLosTresEjes
+  :line: 159
+  :message: ''
+  :unity_test_time: 0
+- :test: test_SegundaMedidaIgual_NoEnviaPorDeadband
+  :line: 166
+  :message: ''
+  :unity_test_time: 0
+- :test: test_CambioSuperiorADeadband_EnviaSoloElEjeAfectado
+  :line: 175
+  :message: ''
+  :unity_test_time: 0
+- :test: test_Keepalive_EnviaLosTresEjesAlPasar24h
+  :line: 186
+  :message: ''
+  :unity_test_time: 0
+- :test: test_LecturaI2CFallida_NoEncola
+  :line: 196
+  :message: ''
+  :unity_test_time: 0
+- :test: test_AlarmaRobo_EnviaEmergenciaConCodigoRobo
+  :line: 222
+  :message: ''
+  :unity_test_time: 0
+- :test: test_AlarmaCaida_EnviaEmergenciaConCodigoCaida
+  :line: 239
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ApplyCmd_SetTimeout_AfectaSoloAlModoIndicado
+  :line: 261
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ApplyCmd_SetMode_ReconfiguraHardwareYTimer
+  :line: 299
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ApplyCmd_SetThreshold_AplicaHardwareSinImportarModo
+  :line: 313
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ApplyCmd_SetThreshold_ModoIgnorado_HardwareSiempreActualizado
+  :line: 325
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ApplyCmd_Disable_SensorIgnoraMedidasYAlarmas
+  :line: 343
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ApplyCmd_Reenable_SensorVuelveAOperar
+  :line: 359
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 14
+  :passed: 14
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.42328400001861155

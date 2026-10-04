@@ -1,0 +1,7 @@
+../Core/Src/app_freertos.c:142:13:configureTimerForRunTimeStats	4	static
+../Core/Src/app_freertos.c:149:22:getRunTimeCounterValue	4	static
+../Core/Src/app_freertos.c:156:13:PreSleepProcessing	16	static
+../Core/Src/app_freertos.c:161:13:PostSleepProcessing	16	static
+../Core/Src/app_freertos.c:172:6:MX_FREERTOS_Init	8	static
+../Core/Src/app_freertos.c:242:6:StartDefaultTask	16	static
+../Core/Src/app_freertos.c:274:13:StartLoraTask	16	static

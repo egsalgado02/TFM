@@ -1,0 +1,5 @@
+../App/Drivers/uart_link.c:75:6:HAL_UART_RxCpltCallback	3
+../App/Drivers/uart_link.c:99:6:HAL_UART_ErrorCallback	2
+../App/Drivers/uart_link.c:114:6:UART_Link_Init	1
+../App/Drivers/uart_link.c:125:6:UART_Link_Send	3
+../App/Drivers/uart_link.c:145:6:UART_Link_DrainRx	9

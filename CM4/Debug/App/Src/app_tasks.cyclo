@@ -1,0 +1,7 @@
+../App/Src/app_tasks.c:62:6:AppTasks_InitAll	1
+../App/Src/app_tasks.c:178:6:StartAccelTask	1
+../App/Src/app_tasks.c:203:6:StartBmeTask	1
+../App/Src/app_tasks.c:212:6:StartInaTask	1
+../App/Src/app_tasks.c:225:6:StartAdcTask	1
+../App/Src/app_tasks.c:243:6:StartPowerTask	2
+../App/Src/app_tasks.c:259:6:StartPayloadTask	4

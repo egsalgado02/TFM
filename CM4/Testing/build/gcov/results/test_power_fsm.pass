@@ -1,0 +1,38 @@
+---
+:source:
+  :path: test
+  :file: test_power_fsm.c
+:successes:
+- :test: test_VoltajeBajoUmbralEmergencia_CortaRailYAvisaModoEmergencia
+  :line: 40
+  :message: ''
+  :unity_test_time: 0
+- :test: test_VoltajeBajoUmbralConservacion_AvisaModoConservacion
+  :line: 53
+  :message: ''
+  :unity_test_time: 0
+- :test: test_RecuperacionDeEmergencia_RequiereSuperarUmbralMasHisteresis
+  :line: 73
+  :message: ''
+  :unity_test_time: 0
+- :test: test_RecuperacionDeConservacion_AAbundancia_RequiereHisteresis
+  :line: 94
+  :message: ''
+  :unity_test_time: 0
+- :test: test_BateriaExternaConectada_AvisaAbundancia
+  :line: 110
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ActualizarUmbrales_CambiaElComportamientoSiguiente
+  :line: 124
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 6
+  :passed: 6
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.3396900000516325

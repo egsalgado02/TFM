@@ -1,0 +1,4 @@
+../App/Src/rtos_iface_cmsis.c:13:16:Queue_Create	16	static
+../App/Src/rtos_iface_cmsis.c:17:6:Queue_Send	32	static
+../App/Src/rtos_iface_cmsis.c:23:6:Queue_Receive	32	static
+../App/Src/rtos_iface_cmsis.c:29:10:Queue_ItemsWaiting	16	static

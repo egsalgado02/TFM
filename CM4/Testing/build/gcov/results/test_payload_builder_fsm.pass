@@ -1,0 +1,62 @@
+---
+:source:
+  :path: test
+  :file: test_payload_builder_fsm.c
+:successes:
+- :test: test_arranca_con_el_periodo_de_conservacion
+  :line: 132
+  :message: ''
+  :unity_test_time: 0
+- :test: test_el_cambio_de_modo_cambia_el_periodo_de_envio
+  :line: 139
+  :message: ''
+  :unity_test_time: 0
+- :test: test_fijar_el_periodo_de_un_modo_no_altera_los_otros
+  :line: 149
+  :message: ''
+  :unity_test_time: 0
+- :test: test_Emergencia_SinValor_EnviaDosBytesEnFPortEmergencia
+  :line: 191
+  :message: ''
+  :unity_test_time: 0
+- :test: test_Emergencia_ConValor_EnviaCuatroBytes
+  :line: 209
+  :message: ''
+  :unity_test_time: 0
+- :test: test_Rutina_SolaSinTimeout_NoMandaNada
+  :line: 233
+  :message: ''
+  :unity_test_time: 0
+- :test: test_Timeout_ConUnSensorIdPequenio_MandaCincoBytes
+  :line: 245
+  :message: ''
+  :unity_test_time: 0
+- :test: test_Timeout_ConUnSensorIdGrande_MandaSieteBytes
+  :line: 266
+  :message: ''
+  :unity_test_time: 0
+- :test: test_Timeout_ConDosSensores_AmbosAparecenEnLaTrama
+  :line: 283
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ForceSend_ConDatosAcumulados_MandaSinEsperarTimeout
+  :line: 301
+  :message: ''
+  :unity_test_time: 0
+- :test: test_TimeoutConStatsVacios_NoMandaNada
+  :line: 316
+  :message: ''
+  :unity_test_time: 0
+- :test: test_TrasEnvio_LosStatsSeResetean
+  :line: 327
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 12
+  :passed: 12
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.33935200003907084

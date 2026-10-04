@@ -1,0 +1,7 @@
+../App/Src/app_tasks.c:63:6:AppTasks_InitAll	128	static
+../App/Src/app_tasks.c:183:6:StartAccelTask	16	static
+../App/Src/app_tasks.c:196:6:StartBmeTask	16	static
+../App/Src/app_tasks.c:205:6:StartInaTask	16	static
+../App/Src/app_tasks.c:218:6:StartAdcTask	16	static
+../App/Src/app_tasks.c:236:6:StartPowerTask	24	static
+../App/Src/app_tasks.c:254:6:StartPayloadTask	48	static

@@ -1,0 +1,14 @@
+../App/Src/power_fsm.c:11:12:condicion_bateria_presente	24	static
+../App/Src/power_fsm.c:16:12:condicion_caer_a_emergencia	24	static
+../App/Src/power_fsm.c:22:12:condicion_caer_a_conservacion	24	static
+../App/Src/power_fsm.c:28:12:condicion_recuperacion_a_conservacion	24	static
+../App/Src/power_fsm.c:34:12:condicion_recuperacion_a_abundancia	24	static
+../App/Src/power_fsm.c:40:12:check_nuevos_umbrales	24	static
+../App/Src/power_fsm.c:48:13:accion_entrar_emergencia	16	static
+../App/Src/power_fsm.c:54:13:accion_entrar_conservacion	16	static
+../App/Src/power_fsm.c:59:13:accion_entrar_abundancia	16	static
+../App/Src/power_fsm.c:64:13:accion_actualizar_umbrales	24	static
+../App/Src/power_fsm.c:96:6:PowerFSMInit	16	static
+../App/Src/power_fsm.c:129:6:PowerManager_PushVoltaje	16	static
+../App/Src/power_fsm.c:133:6:PowerManager_PushConexionBateria	16	static
+../App/Src/power_fsm.c:137:6:PowerManager_PushBatteryThresholds	16	static

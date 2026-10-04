@@ -1,0 +1,6 @@
+../App/Src/adc_fsm.c:21:12:condicion_toca_medir	1
+../App/Src/adc_fsm.c:30:13:accion_medir	8
+../App/Src/adc_fsm.c:89:6:AdcFSM_ApplyCmd	15
+../App/Src/adc_fsm.c:142:6:AdcFSM_Init	3
+../App/Src/adc_fsm.c:174:6:AdcFSM_DrainCmdQueue	2
+../App/Src/adc_fsm.c:180:6:AdcFSM_TriggerMedida	1

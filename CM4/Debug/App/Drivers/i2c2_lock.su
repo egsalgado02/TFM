@@ -1,0 +1,3 @@
+../App/Drivers/i2c2_lock.c:25:6:I2C2_Lock_Init	8	static
+../App/Drivers/i2c2_lock.c:35:6:I2C2_Lock_Take	8	static
+../App/Drivers/i2c2_lock.c:41:6:I2C2_Lock_Give	24	static,ignoring_inline_asm

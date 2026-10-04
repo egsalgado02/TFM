@@ -1,0 +1,43 @@
+---
+build/test/mocks/mock_accel_port.c:
+- TEST
+build/test/mocks/mock_payload_queue.c:
+- TEST
+build/test/mocks/mock_rtos_iface.c:
+- TEST
+"../App/Src/accel_fsm.c":
+- TEST
+"../App/Src/fsm.c":
+- TEST
+build/test/mocks/mock_adc_port.c:
+- TEST
+build/test/mocks/mock_power_queue.c:
+- TEST
+build/test/mocks/mock_power_rail_manager.c:
+- TEST
+"../App/Src/adc_fsm.c":
+- TEST
+build/test/mocks/mock_bme_port.c:
+- TEST
+"../App/Src/bme_fsm.c":
+- TEST
+build/test/mocks/mock_power_fsm.c:
+- TEST
+"../App/Src/config_module.c":
+- TEST
+build/test/mocks/mock_ina_port.c:
+- TEST
+"../App/Src/ina_fsm.c":
+- TEST
+build/test/mocks/mock_lora_tx.c:
+- TEST
+"../App/Src/payload_builder_fsm.c":
+- TEST
+build/test/mocks/mock_config_module.c:
+- TEST
+"../App/Src/power_fsm.c":
+- TEST
+build/test/mocks/mock_power_rail_hw.c:
+- TEST
+"../App/Src/power_rail_manager.c":
+- TEST

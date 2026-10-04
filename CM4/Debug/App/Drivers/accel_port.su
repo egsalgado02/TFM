@@ -1,0 +1,12 @@
+../App/Drivers/accel_port.c:107:13:i2c_write_reg	40	static
+../App/Drivers/accel_port.c:116:13:i2c_read_reg	40	static
+../App/Drivers/accel_port.c:128:13:sleep_cb	16	static
+../App/Drivers/accel_port.c:135:6:AccelPort_StartSleepTimer	32	static
+../App/Drivers/accel_port.c:155:6:AccelPort_Init	16	static
+../App/Drivers/accel_port.c:216:6:AccelPort_SetThreshold	24	static
+../App/Drivers/accel_port.c:238:6:AccelPort_IniciarLecturaI2C	24	static
+../App/Drivers/accel_port.c:253:6:AccelPort_DatosListos	4	static
+../App/Drivers/accel_port.c:255:6:AccelPort_LeerBuffer	24	static
+../App/Drivers/accel_port.c:274:6:AccelPort_LeerCausasAlarma	24	static
+../App/Drivers/accel_port.c:285:10:AccelPort_GetTickMs	8	static
+../App/Drivers/accel_port.c:304:6:HAL_GPIO_EXTI_Callback	24	static,ignoring_inline_asm

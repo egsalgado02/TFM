@@ -1,0 +1,7 @@
+../MbMux/mbmuxif_radio.c:256:13:Thd_RadioNotifRcvProcess	1
+../MbMux/mbmuxif_radio.c:233:13:MBMUXIF_IsrRadioNotifRcvCb	1
+../MbMux/mbmuxif_radio.c:222:13:MBMUXIF_IsrRadioRespRcvCb	1
+../MbMux/mbmuxif_radio.c:113:8:MBMUXIF_RadioInit	4
+../MbMux/mbmuxif_radio.c:169:19:MBMUXIF_GetRadioFeatureCmdComPtr	2
+../MbMux/mbmuxif_radio.c:185:6:MBMUXIF_RadioSendCmd	2
+../MbMux/mbmuxif_radio.c:203:6:MBMUXIF_RadioSendAck	2

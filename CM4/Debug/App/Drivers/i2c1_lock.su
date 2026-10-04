@@ -1,0 +1,3 @@
+../App/Drivers/i2c1_lock.c:13:6:I2C1_Lock_Init	8	static
+../App/Drivers/i2c1_lock.c:20:6:I2C1_Lock_Take	8	static
+../App/Drivers/i2c1_lock.c:26:6:I2C1_Lock_Give	8	static

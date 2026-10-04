@@ -1,0 +1,4 @@
+../App/Src/rtos_iface_cmsis.c:13:16:Queue_Create	1
+../App/Src/rtos_iface_cmsis.c:17:6:Queue_Send	2
+../App/Src/rtos_iface_cmsis.c:23:6:Queue_Receive	2
+../App/Src/rtos_iface_cmsis.c:29:10:Queue_ItemsWaiting	1

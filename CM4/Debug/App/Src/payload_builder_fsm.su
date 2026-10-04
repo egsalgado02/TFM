@@ -1,0 +1,12 @@
+../App/Src/payload_builder_fsm.c:14:12:check_es_emergencia	24	static
+../App/Src/payload_builder_fsm.c:20:12:check_es_rutina	24	static
+../App/Src/payload_builder_fsm.c:26:12:check_force_o_timeout	24	static
+../App/Src/payload_builder_fsm.c:39:13:accion_acumular	32	static
+../App/Src/payload_builder_fsm.c:72:13:accion_empaquetar_y_enviar	88	static
+../App/Src/payload_builder_fsm.c:148:13:accion_envio_emergencia	32	static
+../App/Src/payload_builder_fsm.c:186:13:apply_cmd	16	static
+../App/Src/payload_builder_fsm.c:234:6:PayloadFSM_Init	32	static
+../App/Src/payload_builder_fsm.c:253:6:PayloadFSM_DrainCmdQueue	32	static
+../App/Src/payload_builder_fsm.c:264:6:PayloadFSM_TriggerTimeout	16	static
+../App/Src/payload_builder_fsm.c:268:6:PayloadFSM_ForceSend	16	static
+../App/Src/payload_builder_fsm.c:272:6:PayloadFSM_PostCmd	24	static

@@ -1,0 +1,3 @@
+../App/Drivers/i2c2_lock.c:22:6:I2C2_Lock_Init	3
+../App/Drivers/i2c2_lock.c:32:6:I2C2_Lock_Take	2
+../App/Drivers/i2c2_lock.c:38:6:I2C2_Lock_Give	5

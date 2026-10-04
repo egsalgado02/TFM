@@ -1,0 +1,54 @@
+---
+:source:
+  :path: test
+  :file: test_adc_fsm.c
+:successes:
+- :test: test_PrimeraLectura_SiempreEnviaAPowerQueue
+  :line: 121
+  :message: ''
+  :unity_test_time: 0
+- :test: test_VoltajeFueraVentana_PorDebajo_EnviaAPowerQueue
+  :line: 131
+  :message: ''
+  :unity_test_time: 0
+- :test: test_VoltajeFueraVentana_PorArriba_EnviaAPowerQueue
+  :line: 140
+  :message: ''
+  :unity_test_time: 0
+- :test: test_VoltajeDentroVentana_NoEnviaHastaKeepalive
+  :line: 149
+  :message: ''
+  :unity_test_time: 0
+- :test: test_Keepalive_EnviaAunqueDentroDeVentana_AlPasar24h
+  :line: 157
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ApplyCmd_SetWindow_LaNuevaVentanaCambiaElComportamiento
+  :line: 170
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ApplyCmd_SetTimeout_AfectaSoloAlModoIndicado
+  :line: 189
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ApplyCmd_SetMode_ReprogramaTimerConElTimeoutDelNuevoModo
+  :line: 207
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ApplyCmd_Disable_SensorNoRealizaMedidas
+  :line: 219
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ApplyCmd_Reenable_SensorVuelveAMedir
+  :line: 232
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 10
+  :passed: 10
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.39257999998517334

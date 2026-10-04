@@ -1,0 +1,8 @@
+../App/Src/config_module.c:33:24:read_u16_be	1
+../App/Src/config_module.c:38:24:read_u24_be	1
+../App/Src/config_module.c:46:13:route_to_sensor	5
+../App/Src/config_module.c:66:6:ConfigModule_Init	2
+../App/Src/config_module.c:75:6:ConfigModule_RegisterSensor	3
+../App/Src/config_module.c:81:6:ConfigModule_RegisterTaskHandle	2
+../App/Src/config_module.c:89:6:Config_ApplySystemMode	5
+../App/Src/config_module.c:119:6:ConfigModule_HandleLoRaFrame	19

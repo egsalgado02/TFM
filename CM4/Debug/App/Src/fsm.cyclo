@@ -1,0 +1,3 @@
+../App/Src/fsm.c:6:8:fsm_new	1
+../App/Src/fsm.c:15:6:fsm_init	1
+../App/Src/fsm.c:26:6:fsm_fire	5

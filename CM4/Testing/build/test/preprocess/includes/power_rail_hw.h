@@ -1,0 +1,2 @@
+---
+- "../App/Inc/power_rail_manager.h"

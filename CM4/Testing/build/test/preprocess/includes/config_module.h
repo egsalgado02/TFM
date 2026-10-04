@@ -1,0 +1,4 @@
+---
+- "../App/Inc/config_cmd.h"
+- "../App/Inc/rtos_iface.h"
+- "../App/Inc/power_fsm.h"

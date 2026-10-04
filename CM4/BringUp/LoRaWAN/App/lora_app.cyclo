@@ -1,0 +1,12 @@
+../LoRaWAN/App/lora_app.c:168:6:LoRaWAN_Init	1
+../LoRaWAN/App/lora_app.c:195:13:OnRxData	2
+../LoRaWAN/App/lora_app.c:212:13:OnTxData	1
+../LoRaWAN/App/lora_app.c:218:13:OnJoinRequest	2
+../LoRaWAN/App/lora_app.c:235:13:OnBeaconStatusChange	1
+../LoRaWAN/App/lora_app.c:241:13:OnSysTimeUpdate	1
+../LoRaWAN/App/lora_app.c:248:13:OnClassChange	1
+../LoRaWAN/App/lora_app.c:254:13:OnMacProcessNotify	3
+../LoRaWAN/App/lora_app.c:268:13:OnTxPeriodicityChanged	1
+../LoRaWAN/App/lora_app.c:275:13:OnTxFrameCtrlChanged	1
+../LoRaWAN/App/lora_app.c:282:13:OnPingSlotPeriodicityChanged	1
+../LoRaWAN/App/lora_app.c:289:13:OnSystemReset	1

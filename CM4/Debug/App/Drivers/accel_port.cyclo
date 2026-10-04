@@ -1,0 +1,12 @@
+../App/Drivers/accel_port.c:107:13:i2c_write_reg	2
+../App/Drivers/accel_port.c:116:13:i2c_read_reg	2
+../App/Drivers/accel_port.c:128:13:sleep_cb	1
+../App/Drivers/accel_port.c:135:6:AccelPort_StartSleepTimer	2
+../App/Drivers/accel_port.c:155:6:AccelPort_Init	3
+../App/Drivers/accel_port.c:216:6:AccelPort_SetThreshold	2
+../App/Drivers/accel_port.c:238:6:AccelPort_IniciarLecturaI2C	2
+../App/Drivers/accel_port.c:253:6:AccelPort_DatosListos	1
+../App/Drivers/accel_port.c:255:6:AccelPort_LeerBuffer	3
+../App/Drivers/accel_port.c:274:6:AccelPort_LeerCausasAlarma	4
+../App/Drivers/accel_port.c:285:10:AccelPort_GetTickMs	1
+../App/Drivers/accel_port.c:304:6:HAL_GPIO_EXTI_Callback	5

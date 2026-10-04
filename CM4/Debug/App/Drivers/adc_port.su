@@ -1,0 +1,5 @@
+../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_adc.h:2260:22:LL_ADC_SetSamplingTimeCommonChannels	24	static
+../App/Drivers/adc_port.c:55:13:sleep_cb	16	static
+../App/Drivers/adc_port.c:68:6:AdcPort_StartSleepTimer	32	static
+../App/Drivers/adc_port.c:98:6:AdcPort_LeerBateriaBloqueante	112	static
+../App/Drivers/adc_port.c:194:10:AdcPort_GetTickMs	8	static

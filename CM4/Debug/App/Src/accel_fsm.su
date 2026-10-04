@@ -1,0 +1,12 @@
+/Users/eduardogonzalezsalgado/STM32CubeIDE/workspace_tfm/TFM/CM4/App/Inc/sensor_mag_state.h:29:20:sensor_should_send	32	static
+../App/Src/accel_fsm.c:20:12:check_toca_medir	24	static
+../App/Src/accel_fsm.c:25:12:check_i2c_listo	16	static
+../App/Src/accel_fsm.c:30:12:check_alarma	24	static
+../App/Src/accel_fsm.c:39:13:accion_pedir_lectura	24	static
+../App/Src/accel_fsm.c:45:13:accion_recoger_y_enviar	64	static
+../App/Src/accel_fsm.c:83:13:accion_procesar_alarma	40	static
+../App/Src/accel_fsm.c:134:6:AccelFSM_ApplyCmd	16	static
+../App/Src/accel_fsm.c:188:6:AccelFSM_Init	40	static
+../App/Src/accel_fsm.c:220:6:AccelFSM_DrainCmdQueue	32	static
+../App/Src/accel_fsm.c:226:6:AccelFSM_TriggerMedida	16	static
+../App/Src/accel_fsm.c:227:6:AccelFSM_TriggerAlarma	16	static

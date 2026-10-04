@@ -1,0 +1,4 @@
+---
+- "/Users/eduardogonzalezsalgado/.rbenv/versions/3.2.3/lib/ruby/gems/3.2.0/gems/ceedling-0.31.1/vendor/unity/src/unity.h"
+- "../App/Inc/power_rail_manager.h"
+- mock_power_rail_hw.h

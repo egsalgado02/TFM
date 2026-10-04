@@ -1,0 +1,5 @@
+---
+- "/Users/eduardogonzalezsalgado/.rbenv/versions/3.2.3/lib/ruby/gems/3.2.0/gems/ceedling-0.31.1/vendor/unity/src/unity.h"
+- "../App/Inc/config_module.h"
+- build/test/mocks/mock_rtos_iface.h
+- mock_power_fsm.h

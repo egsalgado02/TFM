@@ -1,0 +1,12 @@
+../App/Src/payload_builder_fsm.c:14:12:check_es_emergencia	3
+../App/Src/payload_builder_fsm.c:20:12:check_es_rutina	3
+../App/Src/payload_builder_fsm.c:26:12:check_force_o_timeout	1
+../App/Src/payload_builder_fsm.c:39:13:accion_acumular	5
+../App/Src/payload_builder_fsm.c:72:13:accion_empaquetar_y_enviar	7
+../App/Src/payload_builder_fsm.c:148:13:accion_envio_emergencia	2
+../App/Src/payload_builder_fsm.c:186:13:apply_cmd	8
+../App/Src/payload_builder_fsm.c:233:6:PayloadFSM_Init	2
+../App/Src/payload_builder_fsm.c:252:6:PayloadFSM_DrainCmdQueue	2
+../App/Src/payload_builder_fsm.c:263:6:PayloadFSM_TriggerTimeout	1
+../App/Src/payload_builder_fsm.c:267:6:PayloadFSM_ForceSend	1
+../App/Src/payload_builder_fsm.c:271:6:PayloadFSM_PostCmd	1
