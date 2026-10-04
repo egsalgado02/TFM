@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(iconv -f ISO-8859-1 -t UTF-8 /Users/eduardogonzalezsalgado/STM32CubeIDE/workspace_tfm/TFM/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c)"
-    ]
-  }
-}
